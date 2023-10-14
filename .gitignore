@@ -1,0 +1,4 @@
+__pycache__/
+#Ignore locally generated files
+/Config.ini
+/Engines.ini

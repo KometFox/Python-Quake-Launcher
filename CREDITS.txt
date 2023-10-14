@@ -1,0 +1,11 @@
+-FSF (Free Software Foundation)
+ For the creation of the *GPL License
+
+-Python developers
+ For allowing this program to happen
+
+-Qt developers
+ For developiong brainlet friendly GUI APIs  
+
+-Quake 1 logo
+ The guy that did it (Just found it on duckduckgo search lmao)
